@@ -79,7 +79,7 @@ Crea una clase llamada `Customer` con las siguientes variables:
 Crea una clase llamada `Flight` con las siguientes variables:
 
 - `flightId` (integer): un identificador único generado automáticamente, miembro privado
-- `flightNumber` (string): un identificador único, miembro privado
+- `flightNumber` (string): un identificador de vuelo único (no ID), miembro privado
 - `aircraft` (string): miembro privado
 - `totalAircraftSeats` (integer): miembro privado
 - `flightMileage` (integer): miembro privado
